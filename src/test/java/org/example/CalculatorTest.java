@@ -1,6 +1,6 @@
 // B211202040 - Kerim TUNÇER
 // SWE 202 SOFTWARE VERIFICATION AND VALIDATION - HOMEWORK1
-//
+// GitHub repository address = https://github.com/kermtuncr19/SVV-HOMEWORK
 
 package org.example;
 
